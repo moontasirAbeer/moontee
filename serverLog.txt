@@ -1,0 +1,41 @@
+[52d05ceb][server]: starting...
+[52d05ceb][datafile]: loading. filename='maps/ctf2.map'
+[52d05ceb][datafile]: allocsize=2584
+[52d05ceb][datafile]: readsize=2420
+[52d05ceb][datafile]: swaplen=2440
+[52d05ceb][datafile]: item_size=2040
+[52d05ceb][datafile]: loading done. datafile='maps/ctf2.map'
+[52d05ceb][server]: maps/ctf2.map crc is 27bc5eac
+[52d05ceb][server]: server name is 'TeeworldsMoon CTF'
+[52d05ceb][datafile]: loading data index=18 size=1016 uncompressed=74800
+[52d05ceb][server]: version 0.6 4261e9870cb5968e
+[52d05ceb][engine/mastersrv]: refreshing master server addresses
+[52d05ceb][register]: refreshing ip addresses
+[52d05ceb][engine/mastersrv]: saving addresses
+[52d05ceb][register]: fetching server counts
+[52d05cec][register]: chose 'master2.teeworlds.com' as master, sending heartbeats
+[52d05ced][register]: no firewall/nat problems detected
+[52d05ced][register]: server registered
+[52d05cf6][server]: client dropped. cid=0 addr=140.184.27.205:52537 reason='Wrong password'
+[52d05cf8][server]: player is ready. ClientID=0 addr=140.184.27.205:52537
+[52d05cf8][game]: Teams are balanced (red=1 blue=0)
+[52d05cf9][server]: 'Logram' -> 'Logram'
+[52d05cf9][server]: player has entered the game. ClientID=0 addr=140.184.27.205:52537
+[52d05cf9][chat]: *** 'Logram' entered and joined the red team
+[52d05cf9][game]: team_join player='0:Logram' team=0
+[52d05d2c][game]: pickup player='0:Logram' item=1/0
+[52d05d2c][game]: pickup player='0:Logram' item=1/0
+[52d05d2d][game]: pickup player='0:Logram' item=1/0
+[52d05d2d][game]: pickup player='0:Logram' item=1/0
+[52d05d31][game]: pickup player='0:Logram' item=2/3
+[52d05d31][game]: pickup player='0:Logram' item=1/0
+[52d05d31][game]: pickup player='0:Logram' item=1/0
+[52d05d31][game]: pickup player='0:Logram' item=1/0
+[52d05d5a][game]: pickup player='0:Logram' item=1/0
+[52d05d5b][game]: pickup player='0:Logram' item=1/0
+[52d05d5b][game]: pickup player='0:Logram' item=1/0
+[52d05d66][server]: client dropped. cid=0 addr=140.184.27.205:52537 reason=''
+[52d05d66][game]: kill killer='0:Logram' victim='0:Logram' weapon=-3 special=0
+[52d05d66][chat]: *** 'Logram' has left the game
+[52d05d66][game]: leave player='0:Logram'
+[52d05d66][game]: Teams are balanced (red=0 blue=0)
